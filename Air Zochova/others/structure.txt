@@ -1,0 +1,47 @@
+class
+    short
+        economy
+        economy comfort
+        business
+    long
+        economy
+        economy premium
+        business
+pocet
+    a320 1 - 171
+        24 business
+        147 economy
+    a350 300
+        56 business
+        56 economy premium
+        219 economy
+
+
+miesto
+    Paris - CDG, London - HTR, Amsterdam, Miami, New York - JFK, Los Angles - LAX
+datum
+    tento rok
+typ
+    one way
+    return
+udaje
+    meno
+    priezvisko
+
+platba
+    fakturacne udaje
+            meno(importneme z udajov)
+            priezvisko(importneme z udajov)
+
+            nazov firmy
+            Ulica
+            Mesto 
+            PSC
+    karta  
+        cislo karty
+        expiration date
+        cvc
+bonuses
+    batozina
+    priotity boarding
+    poistenie letenky
